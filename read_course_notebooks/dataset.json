@@ -1,14 +1,20 @@
 [
   {
-    "task": "Extract the AWS region from an S3 bucket ARN like 'arn:aws:s3:::my-bucket-us-west-2'",
-    "format": "regex"
+    "prompt_inputs": {},
+    "solution_criteria": [],
+    "task_description": "",
+    "scenario": "Unable to generate test scenarios - the task_description field is empty. Please provide the actual task description that needs to be tested so I can create 3 relevant, diverse testing scenario ideas."
   },
   {
-    "task": "Create a CloudFormation template JSON object that defines an S3 bucket with versioning enabled and public access blocked",
-    "format": "json"
+    "prompt_inputs": {},
+    "solution_criteria": [],
+    "task_description": "",
+    "scenario": "Note: The prompt_inputs_spec is also not populated. Please include both the task description and input specifications to design appropriate test scenarios."
   },
   {
-    "task": "Write a Python function that takes an AWS IAM policy document as a JSON string and returns a list of all the Actions specified in it",
-    "format": "python"
+    "prompt_inputs": {},
+    "solution_criteria": [],
+    "task_description": "",
+    "scenario": "Once you provide the task details, I'll generate 3 distinct scenario ideas that test different aspects, edge cases, and use cases relevant to your specific task."
   }
 ]
